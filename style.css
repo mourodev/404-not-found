@@ -1,3 +1,5 @@
+/* base */
+
 * {
   margin: 0;
   padding: 0;
@@ -6,13 +8,35 @@
 
 body {
   background: #fff;
-}
-
-a {
-  text-decoration: none;
+  font-family: 'Space Mono', monospace;
 }
 
 img {
   max-width: 100%;
   height: auto;
+}
+/* navigation */
+header {
+  height: 70px;
+  padding: 20px;
+  margin-bottom: 4rem;
+}
+.logo {
+  text-decoration: none;
+  font-family: 'Inconsolata', monospace;
+  color: #333;
+  font-size: 1.5rem;
+}
+
+/* page content */
+.container {
+  margin-left: 1.5em;
+  margin-right: 1.5rem;
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+}
+
+.bg_container {
+  margin-bottom: 4.844rem;
 }
