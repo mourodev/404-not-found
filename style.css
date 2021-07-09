@@ -83,12 +83,17 @@ header {
 
 footer p {
   font-size: 0.875rem;
-  color: #bdbdbd;
+  color: #474554;
   text-align: center;
 }
 
 /* responsive */
 @media (min-width: 992px) {
+  header {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
   .container {
     display: flex;
     flex-direction: row-reverse;
