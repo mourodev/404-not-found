@@ -28,6 +28,8 @@
 
 - [Table of Contents](#table-of-contents)
 - [Overview](#overview)
+- [What was your experience?](#what-was-your-experience)
+- [What have you learned / improved?](#what-have-you-learned--improved)
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
@@ -38,12 +40,13 @@
 
 ![screenshot](./img/not-found.gif)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+## What was your experience?
+- My experience was the best possible, as I am a beginner in web development and I was able to further explore the knowledge gained so far with HTML and CSS
+
+## What have you learned / improved?
+- I learned a little more about the semantic structure of HTML and placements with CSS.
+
 
 ### Built With
 
